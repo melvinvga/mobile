@@ -9,6 +9,7 @@ Connexion::Connexion(QWidget *parent) :
     ui(new Ui::Connexion)
 {
     ui->setupUi(this);
+    //ui->Connexion->setStyleSheet("color: red;");
 }
 
 Connexion::~Connexion()
